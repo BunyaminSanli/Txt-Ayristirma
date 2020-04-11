@@ -1,7 +1,7 @@
 /**
 *
-* @author Bünyamin Şanlı, Furkan Bingül 
-* bunyamin.sanli@ogr.sakarya.edu.tr , muhammet.bingul@ogr.sakarya.edu.tr
+* @author Bünyamin Şanlı
+* bunyamin.sanli@ogr.sakarya.edu.tr
 * @since 08.03.2020
 * <p>
 * kelime sayma işlemi yapılan sınıf
